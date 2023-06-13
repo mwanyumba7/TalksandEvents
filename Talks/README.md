@@ -1,6 +1,6 @@
 # Brayan's Talks
 
-I am also passionate about the developer community and I am trying to drive inclusion for more persons with disabilities & persons from underepresented communities and groups in tech. Because of this,I co-organize some developer events (e.g. Luna Hacks, OSCA Nairobi, GDSC Kabarak University), I speak at some events as well.
+I am passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist and I am trying to drive inclusion for more persons with disabilities & persons from underepresented communities and groups in tech. Because of this,I co-organize some developer events (e.g. Luna Hacks, OSCA Nairobi, GDSC Kabarak University), I speak at some events as well.
 
 Here you will find a list of all of the talks I have given in conferences and Meet-ups : 
 
