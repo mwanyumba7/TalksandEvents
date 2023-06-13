@@ -7,6 +7,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>2022</span></h2>
 
+<p> Crowdsource by Google: Help make AI serve everyone, everywhere <br><strong>DevFest Mombasa 2022</strong> • <em>November 26th, 2022</em> • <a target="_blank" rel="noopener" href="https://gdg.community.dev/events/details/google-gdg-mombasa-presents-devfest-2022-mombasa/">See Event</a></p>
+
 <p>Leveraging AI and ML to build great products In Android <br><strong>DroidCon Kenya</strong> • <em>November 18th, 2022</em> • <a target="_blank" rel="noopener" href="https://droidcon.co.ke/sessions/leveraging-ai-and-ml-to-build-great-products-in-android-1667497717?from=/past-events/2022">See Event</a></p>
 
 <p>Google Crowdsorce : Help Make A Difference <br><strong>DevFest Uyo 2022</strong> • <em>October 29th, 2022</em> • <a target="_blank" rel="noopener" href="https://twitter.com/gdg_uyo/status/1581886573741633536?s=20">See Event</a></p>
