@@ -5,6 +5,10 @@ I am passionate about giving back to the community and sharing the knowledge and
 Here you will find a list of all of the talks I have given in conferences and Meet-ups : 
 
 
+<h2><span>2023</span></h2>
+
+<p>Building Trust in AI: The Importance of Explainability in Open Source Projects <br><strong>CHAOSScon Africa 2023</strong> • <em>June 14th, 2023</em>  • <a href=https://chaoss.community/chaosscon-2023-africa/>See Event</a> • <a href=https://github.com/mwanyumba7/TalksandEvents/blob/main/Talks/CHAOSSconAfrica23.md>Checkout Resources</a></p>  
+
 <h2><span>2022</span></h2>
 
 <p> Crowdsource by Google: Help make AI serve everyone, everywhere <br><strong>DevFest Mombasa 2022</strong> • <em>November 26th, 2022</em> • <a target="_blank" rel="noopener" href="https://gdg.community.dev/events/details/google-gdg-mombasa-presents-devfest-2022-mombasa/">See Event</a></p>
