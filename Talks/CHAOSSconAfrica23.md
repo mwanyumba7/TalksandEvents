@@ -36,4 +36,4 @@ These are the links to resources and references I mentioned in my talk:
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 
-Thank you for listening to my talk and checking out the resources.
+Thank you for listening to my talk and checking out the resources 💜.
