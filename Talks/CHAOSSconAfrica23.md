@@ -4,6 +4,8 @@ This is a talk I gave at [CHAOSScon Africa 2023](https://chaoss.community/chaoss
 
 ![CHAOSSconAfrica23 Speaker Card](https://github.com/mwanyumba7/TalksandEvents/assets/91888963/eba0bce1-6f80-4c53-b77a-c03959b9170a)
 
+[Listen to the recording](https://www.youtube.com/live/QEaLO5_fK0g?feature=share&t=405)
+
 ## Talk Title
 
 ### Building Trust in AI: The Importance of Explainability in Open Source Projects
