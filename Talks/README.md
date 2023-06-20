@@ -7,7 +7,19 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>2023</span></h2>
 
+<p>Let's Talk about Google Crowdsource<br><strong>Coast Institute of Technology GDSC Meet-up</strong> • <em>June 17th, 2023</em>  • <a href=https://gdsc.community.dev/events/details/developer-student-clubs-coast-institute-of-technology-presents-lets-talk-about-google-crowdsource//>See Event</a> 
+
 <p>Building Trust in AI: The Importance of Explainability in Open Source Projects <br><strong>CHAOSScon Africa 2023</strong> • <em>June 14th, 2023</em>  • <a href=https://chaoss.community/chaosscon-2023-africa/>See Event</a> • <a href=https://github.com/mwanyumba7/TalksandEvents/blob/main/Talks/CHAOSSconAfrica23.md>Checkout Resources</a></p>  
+
+<p> Streamlining Data Analysis with Simple ML for Sheets <br><strong>Space Ya Tech Tech-Talks</strong> • <em>June 10th, 2023</em>  • <a href=https://www.eventbrite.com/e/streamlining-data-analysis-with-simple-ml-for-sheets-tickets-649937258837/>See Event</a> • <a href=https://github.com/mwanyumba7/TalksandEvents/blob/main/Talks/SYTTechTalks-SessionOne.md>Checkout Resources</a></p>
+
+<p>A Gentle Introduction to Neural Networks<br><strong>University of Lay Adventist Kigali GDSC Meet-up</strong> • <em>May 31st, 2023</em>  • <a href=https://gdsc.community.dev/events/details/developer-student-clubs-university-of-lay-adventist-of-kigali-presents-explore-ml-study-jam-2023-05-31//>See Event</a> • <a href=https://youtu.be/_L5Kfy0gpWY/>Watch Video</a>
+
+<p>Coastal Kenya : A Tapestry of Culture and History Full of Successes<br><strong>Crowdsource Africa Day Meet-up 2023</strong> • <em>May 26th, 2023</em>  • <a href=https://www.linkedin.com/posts/brayan-mwanyumba-309498227_googlecrowdsource-activity-7069036903802503168-LB_S/?utm_source=share&utm_medium=member_desktop/>See Event</a>
+
+<p>Machine Learning : Basics and Beyond<br><strong>University of Lay Adventist Kigali GDSC Meet-up</strong> • <em>May 17th, 2023</em>  • <a href=https://gdsc.community.dev/events/details/developer-student-clubs-university-of-lay-adventist-of-kigali-presents-explore-ml-study-jam-2023-05-31//>See Event</a> • <a href=https://youtu.be/GzcIodiTCVc/>Watch Video</a>
+
+<p>From Problems to Solutions: The ML Architecture Maze<br><strong>GDG Nairobi Professional Machine Learning Engineer Study Group</strong> • <em>May 11th, 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-certification-study-group-professional-machine-learning-2023-05-18/cohost-gdg-nairobi/>See Event</a>
 
 <h2><span>2022</span></h2>
 
