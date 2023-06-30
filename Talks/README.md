@@ -7,6 +7,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>2023</span></h2>
 
+<p>Technology as an empowering Tool for Widows, Opharns and Widowers<br><strong>International Widows Day 2023</strong> • <em>June 23rd, 2023</em>  • <a href=https://www.linkedin.com/posts/brayan-mwanyumba-309498227_internationalwidowsday-technology-womenempowerment-activity-7078268147002146817-8phJ?utm_source=share&utm_medium=member_desktop/>See Event</a>
+  
 <p>Building Responsible AI: It's Not Rocket Science<br><strong>University of Lay Adventist Kigali GDSC Meet-up</strong> • <em>June 21st, 2023</em>  • <a href=https://gdsc.community.dev/events/details/developer-student-clubs-university-of-lay-adventist-of-kigali-presents-explore-ml-study-jam-2023-06-21/>See Event</a>
 
 <p>Let's Talk about Google Crowdsource<br><strong>Coast Institute of Technology GDSC Meet-up</strong> • <em>June 17th, 2023</em>  • <a href=https://gdsc.community.dev/events/details/developer-student-clubs-coast-institute-of-technology-presents-lets-talk-about-google-crowdsource//>See Event</a> 
