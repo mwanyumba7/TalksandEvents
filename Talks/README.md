@@ -1,4 +1,4 @@
-# Brayan's Talks
+ # Brayan's Talks
 
 I am passionate about giving back to the community and sharing the knowledge and experiences I have over time as a Data Scientist and I am trying to drive inclusion for more persons with disabilities & persons from underepresented communities and groups in tech. Because of this,I co-organize some developer events (e.g. Luna Hacks, OSCA Nairobi, GDSC Kabarak University), I speak at some events as well.
 
@@ -6,6 +6,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 
 <h2><span>2023</span></h2>
+
+<p>Unlocking Data Insights for Fair Machine Learning: Exploring Know Your Data<br><strong>Google I/O Extended Student Edition Nairobi 2023</strong> • <em>July 15th, 2023</em>  • <a href=https://twitter.com/Ms_Konya/status/1680614877490999304?s=20>See Event</a>
 
 <p>Technology as an empowering Tool for Widows, Opharns and Widowers<br><strong>International Widows Day 2023</strong> • <em>June 23rd, 2023</em>  • <a href=https://www.linkedin.com/posts/brayan-mwanyumba-309498227_internationalwidowsday-technology-womenempowerment-activity-7078268147002146817-8phJ?utm_source=share&utm_medium=member_desktop/>See Event</a>
   
