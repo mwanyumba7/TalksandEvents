@@ -6,11 +6,11 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
-<p>MediaPipe: Making On-Device Machine Learning a Piece of Pie<br><strong>Google I/O Extended Pwani 2023</strong> • <em>July 22nd, 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2023/>See Event</a>
-
 <p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a> • <a href="https://2023.pygotham.tv/registration/">Get Tickets</a>
 
 <h2><span>2023</span></h2>
+
+<p>MediaPipe: Making On-Device Machine Learning a Piece of Pie<br><strong>Google I/O Extended Pwani 2023</strong> • <em>July 22nd, 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2023/>See Event</a>
 
 <p>Unlocking Data Insights for Fair Machine Learning: Exploring Know Your Data<br><strong>Google I/O Extended Student Edition Nairobi 2023</strong> • <em>July 15th, 2023</em>  • <a href=https://twitter.com/Ms_Konya/status/1680614877490999304?s=20>See Event</a>
 
