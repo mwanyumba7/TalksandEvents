@@ -6,13 +6,13 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
-<p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>Conference for Open Source Coders, Users & Promoters(COSCUP) 2023</strong> • <em>Sarturday, Jul. 29 & Sunday, Jul. 30 2023</em>  • <a href=https://coscup.org/2023/en/>See Event</a> • <a href="https://coscup.org/2023-survey/">Get Tickets</a>
-
 <p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a> • <a href="https://www.quicket.co.ug/events/218513-pycon-uganda-2023/#/">Get Tickets</a> • <a href=https://docs.google.com/forms/d/1hScuwbPwhxq8I1l8aZ0zOPA7WP-unvDMrarCXi0IxAY/viewform?edit_requested=true>Apply For Financial Aid</a>
 
 <p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a> • <a href="https://2023.pygotham.tv/registration/">Get Tickets</a>
 
 <h2><span>2023</span></h2>
+
+<p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>Conference for Open Source Coders, Users & Promoters(COSCUP) 2023</strong> • <em>Sarturday, Jul. 29 & Sunday, Jul. 30 2023</em>  • <a href=https://coscup.org/2023/en/>See Event</a>
 
 <p>MediaPipe: Making On-Device Machine Learning a Piece of Pie<br><strong>Google I/O Extended Pwani 2023</strong> • <em>July 22nd, 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2023/>See Event</a>
 
