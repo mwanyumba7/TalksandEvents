@@ -6,6 +6,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
+<p>Adding ML to Your Android App with MediaPipe <br><strong>Enyata Community Meet-up</strong> • <em>August 4th 2023</em>
+
 <p>Prototype to Production: Getting Predictions from Custom Trained Models On Vertex AI<br><strong>Google I/O Extended Nairobi 2023</strong> • <em>August 5th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-google-io-2023-extended-nairobi/>See Event</a>
 
 <p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a> • <a href="https://www.quicket.co.ug/events/218513-pycon-uganda-2023/#/">Get Tickets</a> • <a href=https://docs.google.com/forms/d/1hScuwbPwhxq8I1l8aZ0zOPA7WP-unvDMrarCXi0IxAY/viewform?edit_requested=true>Apply For Financial Aid</a>
