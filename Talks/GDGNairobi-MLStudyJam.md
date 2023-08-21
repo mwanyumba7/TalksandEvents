@@ -23,4 +23,8 @@ These are the links to resources and references I mentioned during the session:
 - [Register For the week Two Session](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-2-2023-08-24/)
 - Follow GDG Nairobi on [Twitter](https://twitter.com/GDG_Nairobi?s=20) to get latest updates about the program.
 
+## Feedback Arena 
+Here is some of the feedback I recieved from the audience 
+![GDG Nairobi Machine Learning Study Jam Week 1 Session Feedback](https://github.com/mwanyumba7/TalksandEvents/assets/91888963/9a1983a6-028d-4945-a68b-dd2efbdf11ba)
+
 Thank you for listening to my talk and checking out the resources 💜.
