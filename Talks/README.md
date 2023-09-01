@@ -12,6 +12,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <p>Open Source Solutions for Responsible AI Mitigations and Tracking<br><strong>Africa's Talking Summit 2023</strong> • <em>Thursday Oct. 26 & Saturday, Oct. 28 2023</em>  • <a href=https://www.papercall.io/africastalkingsummit2023>See Event</a>
 
+<p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a> • <a href="https://2023.djangocon.africa/get-ticket">Get Tickets</a>
+
 <h2><span>2023</span></h2>
 
 <p>Prototype to Production: Getting Predictions from Custom Trained Models On Vertex AI<br><strong>Google I/O Extended Nairobi 2023</strong> • <em>August 5th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-google-io-2023-extended-nairobi/>See Event</a>
