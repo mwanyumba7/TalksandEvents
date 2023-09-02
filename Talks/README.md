@@ -16,6 +16,12 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>2023</span></h2>
 
+<p>SQL Fundamentals for Data<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>August 31st 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-3-introduction-to-deep-learning-course-2023-08-31/cohost-gdg-nairobi>See Event</a>
+
+<p>Problem Farming in Machine Learning<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>August 24th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-2-intermediate-machine-learning-2023-08-24/cohost-gdg-nairobi>See Event</a>
+
+<p>Let's Talk Machine Learning Algorithms<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>August 17th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-1-introduction-to-machine-learning-2023-08-17/cohost-gdg-nairobi>See Event</a>
+
 <p>Prototype to Production: Getting Predictions from Custom Trained Models On Vertex AI<br><strong>Google I/O Extended Nairobi 2023</strong> • <em>August 5th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-google-io-2023-extended-nairobi/>See Event</a>
 
 <p>Adding ML to Your Android App with MediaPipe <br><strong>Enyata Community Meet-up</strong> • <em>August 4th 2023</em>
