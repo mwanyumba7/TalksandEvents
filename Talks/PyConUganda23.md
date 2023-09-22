@@ -32,5 +32,6 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub Copilot](https://copilot.github.com/)
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
+- [Presentation Slides](https://docs.google.com/presentation/d/1zZ8ld5am7OGvLZjIu7YISS1-Mtcprsb2oSTZDNXKenk/edit?usp=drivesdk)
 
 Thank you for listening to my talk and checking out the resources 💜.
