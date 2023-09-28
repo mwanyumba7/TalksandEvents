@@ -6,7 +6,7 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
-<p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a> • <a href="https://www.quicket.co.ug/events/218513-pycon-uganda-2023/#/">Get Tickets</a> • <a href=https://docs.google.com/forms/d/1hScuwbPwhxq8I1l8aZ0zOPA7WP-unvDMrarCXi0IxAY/viewform?edit_requested=true>Apply For Financial Aid</a>
+<p>Open source for Everyone, Regardless of Ability<br><strong>RenderCon Kenya 2023</strong> • <em>Friday, Sept. 29 2023</em>  • <a href=https://www.rendercon.org/>See Event</a> • <a href="https://chpter.co/checkout/paypage/link-eQGvF9JCVmIBhde0V8/">Get Tickets</a>
 
 <p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a> • <a href="https://2023.pygotham.tv/registration/">Get Tickets</a>
 
@@ -15,6 +15,10 @@ Here you will find a list of all of the talks I have given in conferences and Me
 <p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a> • <a href="https://2023.djangocon.africa/get-ticket">Get Tickets</a>
 
 <h2><span>2023</span></h2>
+
+<p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a>
+
+<p>Bias, AI and Ethics<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>September 9th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-3-introduction-to-deep-learning-course-2023-08-31/cohost-gdg-nairobi>See Event</a> • <a href="https://www.youtube.com/live/Xdy-YRn6ow8?si=7wAcBe8US_o9cJtI&t=514">Watch Video</a>
 
 <p>SQL Fundamentals for Data<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>August 31st 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-3-introduction-to-deep-learning-course-2023-08-31/cohost-gdg-nairobi>See Event</a>
 
