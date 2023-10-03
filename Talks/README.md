@@ -14,6 +14,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>2023</span></h2>
 
+<p>Concrete Steps to Building Explainable Models with Keras<br><strong>Keras Community Day Nairobi 2023</strong> • <em>Sat, Sept. 30 2023</em>  • <a href=https://x.com/GDG_Nairobi/status/1707708413055054069?s=20>See Event</a>
+
 <p>Open source for Everyone, Regardless of Ability<br><strong>RenderCon Kenya 2023</strong> • <em>Friday, Sept. 29 2023</em>  • <a href=https://www.rendercon.org/>See Event</a>
 
 <p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a>
