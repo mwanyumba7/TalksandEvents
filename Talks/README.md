@@ -6,8 +6,6 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
-<p>Open source for Everyone, Regardless of Ability<br><strong>RenderCon Kenya 2023</strong> • <em>Friday, Sept. 29 2023</em>  • <a href=https://www.rendercon.org/>See Event</a> • <a href="https://chpter.co/checkout/paypage/link-eQGvF9JCVmIBhde0V8/">Get Tickets</a>
-
 <p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a> • <a href="https://2023.pygotham.tv/registration/">Get Tickets</a>
 
 <p>Open Source Solutions for Responsible AI Mitigations and Tracking<br><strong>Africa's Talking Summit 2023</strong> • <em>Thursday Oct. 26 & Saturday, Oct. 28 2023</em>  • <a href=https://www.papercall.io/africastalkingsummit2023>See Event</a>
@@ -15,6 +13,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 <p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a> • <a href="https://2023.djangocon.africa/get-ticket">Get Tickets</a>
 
 <h2><span>2023</span></h2>
+
+<p>Open source for Everyone, Regardless of Ability<br><strong>RenderCon Kenya 2023</strong> • <em>Friday, Sept. 29 2023</em>  • <a href=https://www.rendercon.org/>See Event</a>
 
 <p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a>
 
