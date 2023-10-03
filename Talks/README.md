@@ -8,9 +8,15 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a> • <a href="https://2023.pygotham.tv/registration/">Get Tickets</a>
 
-<p>Open Source Solutions for Responsible AI Mitigations and Tracking<br><strong>Africa's Talking Summit 2023</strong> • <em>Thursday Oct. 26 & Saturday, Oct. 28 2023</em>  • <a href=https://www.papercall.io/africastalkingsummit2023>See Event</a>
+<p>Stop Treating Explainability as an Afterthought: Steps to Building Explainable Models with Keras<br><strong>DevFest Egbe 2023</strong> • <em>Sat, Oct. 21 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-egbe-presents-devfest-egbe-2023/>See Event</a> • <a href="https://gdg.community.dev/events/details/google-gdg-egbe-presents-devfest-egbe-2023/">Get Tickets</a>
+
+<p>Open Source Solutions for Responsible AI Mitigations and Tracking<br><strong>Africa's Talking Summit 2023</strong> • <em>Thursday Oct. 26 & Saturday, Oct. 28 2023</em>  • <a href=https://summit.africastalking.com/#speakers>See Event</a>
+
+<p>Mediapipe: Making On-Device Machine Learning a Pice of Pie<br><strong>DroidCon Kenya 2023</strong> • <em>8th - 10th Nov. 2023</em>  • <a href=https://droidcon.co.ke/>See Event</a> • <a href="https://chpter.co/droidconKE/">Get Tickets</a>
 
 <p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a> • <a href="https://2023.djangocon.africa/get-ticket">Get Tickets</a>
+
+<p>Hands-On Few-Shot and Prompt-Based Learning<br><strong>CodeMash 2024</strong> • <em>9th - 12th Jan. 2024</em>  • <a href=https://codemash.org/>See Event</a> • <a href="https://tickets.codemash.org/#/buyTickets">Get Tickets</a>
 
 <h2><span>2023</span></h2>
 
