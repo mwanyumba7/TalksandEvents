@@ -6,8 +6,6 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
-<p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a> • <a href="https://2023.pygotham.tv/registration/">Get Tickets</a>
-
 <p>Stop Treating Explainability as an Afterthought: Steps to Building Explainable Models with Keras<br><strong>DevFest Egbe 2023</strong> • <em>Sat, Oct. 21 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-egbe-presents-devfest-egbe-2023/>See Event</a> • <a href="https://gdg.community.dev/events/details/google-gdg-egbe-presents-devfest-egbe-2023/">Get Tickets</a>
 
 <p>Open Source Solutions for Responsible AI Mitigations and Tracking<br><strong>Africa's Talking Summit 2023</strong> • <em>Thursday Oct. 26 & Saturday, Oct. 28 2023</em>  • <a href=https://summit.africastalking.com/#speakers>See Event</a>
@@ -76,3 +74,12 @@ Here you will find a list of all of the talks I have given in conferences and Me
 <p data-v-68dca13d=""> Getting Started With Data Science The Right Way<br data-v-68dca13d=""><strong data-v-68dca13d="">Google I/O Extended Nairobi</strong> • <em data-v-68dca13d="">June 4th, 2022</em> • <a target="_blank" rel="noopener" href="https://gdg.community.dev/events/details/google-gdg-nairobi-presents-google-io-2022-extended-nairobi/" >See Event</a></p>
 
 <p>Technical Writing 101<br><strong>GDSC Kabarak University Meet-up</strong> • <em>May 28th, 2022</em> • <a target="_blank" rel="noopener" href="https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-technical-writing/">See Event</a></p>
+
+<h2><span>Talks That Didn't Happen</span></h2>
+
+This section highlights my unwavering commitment to delivering valuable content, even in the face of unforeseen circumstances. I understand that unexpected events can lead to cancellations, so I make every effort to make up for setbacks by sharing talks on my YouTube channel. I firmly believe that adaptability and resilience are critical traits to succeed in any field.
+
+My goal is to keep the flow of knowledge uninterrupted, and I take this responsibility seriously. Regardless of the situation, I remain focused on delivering high-quality content that provides value to my audience. I believe that transparency is key, and I am always open about the reasons behind any cancellations or delays. By doing so, I hope to earn the trust of my audience and continue to build a community of learners who are passionate about acquiring knowledge.
+
+<p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a>
+
