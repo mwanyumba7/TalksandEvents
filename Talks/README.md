@@ -40,7 +40,7 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <p>Prototype to Production: Getting Predictions from Custom Trained Models On Vertex AI<br><strong>Google I/O Extended Nairobi 2023</strong> • <em>August 5th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-google-io-2023-extended-nairobi/>See Event</a>
 
-<p>Adding ML to Your Android App with MediaPipe <br><strong>Enyata Community Meet-up</strong> • <em>August 4th 2023</em>
+<p>Adding ML to Your Android App with MediaPipe <br><strong>Enyata Community Meet-up</strong> • <em>August 4th 2023</em> • <a href="https://youtu.be/wV5txc6UbL8?si=mJrW7DGfrLtyEdPQ">Watch Video</a>
 
 <p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>Conference for Open Source Coders, Users & Promoters(COSCUP) 2023</strong> • <em>Sarturday, Jul. 29 & Sunday, Jul. 30 2023</em>  • <a href=https://coscup.org/2023/en/>See Event</a>
 
