@@ -18,6 +18,10 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>2023</span></h2>
 
+<p>Github 101 : Optimizing Collaboration with Github for Hackathons<br><strong>GDSC Kabarak University Meet-up</strong> • <em>Sat, Oct. 17 2023</em>  • <a href="https://gdsc.community.dev/events/details/developer-student-clubs-kabarak-university-presents-github-101-optimizing-collaboration-with-github-for-hackathons/">See Event</a>
+
+<p>Understanding Open Source and Making Your First Contribution<br><strong>GDSC Hacktober Fest Info Session</strong> • <em>Sat, Oct. 7 2023</em>  • <a href="https://twitter.com/dsc_mountKenya/status/1709301441293168941?t=EqRwcH2XPaYwd7-JWOVV8Q&s=19">See Event</a>
+
 <p>Concrete Steps to Building Explainable Models with Keras<br><strong>Keras Community Day Nairobi 2023</strong> • <em>Sat, Sept. 30 2023</em>  • <a href=https://x.com/GDG_Nairobi/status/1707708413055054069?s=20>See Event</a>
 
 <p>Open source for Everyone, Regardless of Ability<br><strong>RenderCon Kenya 2023</strong> • <em>Friday, Sept. 29 2023</em>  • <a href=https://www.rendercon.org/>See Event</a>
