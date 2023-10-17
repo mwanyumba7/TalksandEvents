@@ -28,6 +28,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <p>Word Embeddings: A Pythonic Delight<br><strong>PyCon Uganda 2023</strong> • <em>September 21st 2023</em>  • <a href=https://ug.pycon.org/>See Event</a>
 
+<p>Emerging Tech Titans: Building Tomorrow<br><strong>Technier School Twitter Space Series</strong> • <em>September 14th 2023</em>  • <a href="https://twitter.com/TechnierSchool/status/1698951051141922880?t=PxjTyBIFOLZOXCKCzyyafg&s=19">See Event</a> • <a href="https://twitter.com/TechnierSchool/status/1698951053876543867?t=83X7RQCfCxehCCA7pneCWw&s=19">Litsen to Recording</a>
+
 <p>Bias, AI and Ethics<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>September 9th 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-3-introduction-to-deep-learning-course-2023-08-31/cohost-gdg-nairobi>See Event</a> • <a href="https://www.youtube.com/live/Xdy-YRn6ow8?si=7wAcBe8US_o9cJtI&t=514">Watch Video</a>
 
 <p>SQL Fundamentals for Data<br><strong>GDG Nairobi ML Study Jam 2023</strong> • <em>August 31st 2023</em>  • <a href=https://gdg.community.dev/events/details/google-gdg-nairobi-presents-ml-study-jam-week-3-introduction-to-deep-learning-course-2023-08-31/cohost-gdg-nairobi>See Event</a>
