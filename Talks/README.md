@@ -6,9 +6,13 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
+<p>Machine Learning for Blue Teams<br><strong>BSides Nairobi 2023</strong> • <em>8th - 9th Nov. 2023</em>  • <a href=https://bsidesnairobi.ke/>See Event</a> • <a href="https://radatickets.com/event/bsides_nairobi_cyber_security_conference_2023_6529517706e4e">Get Tickets</a>
+
 <p>Mediapipe: Making On-Device Machine Learning a Pice of Pie<br><strong>DroidCon Kenya 2023</strong> • <em>8th - 10th Nov. 2023</em>  • <a href=https://droidcon.co.ke/>See Event</a> • <a href="https://chpter.co/droidconKE/">Get Tickets</a>
 
 <p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a> • <a href="https://2023.djangocon.africa/get-ticket">Get Tickets</a>
+
+<p>Building Explainable Models on GCP with Vertex Explainable AI and Tensorflow<br><strong>DevFest Dar es Salaam 2023</strong> • <em>11th Nov. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-dar-es-salaam-presents-devfest-dar-es-salaam-2023/">See Event</a> • <a href="https://gdg.community.dev/events/details/google-gdg-dar-es-salaam-presents-devfest-dar-es-salaam-2023/">Get Tickets</a>
 
 <p>Hands-On Few-Shot and Prompt-Based Learning<br><strong>CodeMash 2024</strong> • <em>9th - 12th Jan. 2024</em>  • <a href=https://codemash.org/>See Event</a> • <a href="https://tickets.codemash.org/#/buyTickets">Get Tickets</a>
 
