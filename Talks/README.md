@@ -6,17 +6,25 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 <h2><span>Forthcoming Speaking Engagements</span></h2>
 
-<p>Machine Learning for Blue Teams<br><strong>BSides Nairobi 2023</strong> • <em>8th - 9th Nov. 2023</em>  • <a href=https://bsidesnairobi.ke/>See Event</a> • <a href="https://radatickets.com/event/bsides_nairobi_cyber_security_conference_2023_6529517706e4e">Get Tickets</a>
-
-<p>Mediapipe: Making On-Device Machine Learning a Pice of Pie<br><strong>DroidCon Kenya 2023</strong> • <em>8th - 10th Nov. 2023</em>  • <a href=https://droidcon.co.ke/>See Event</a> • <a href="https://chpter.co/droidconKE/">Get Tickets</a>
-
-<p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a> • <a href="https://2023.djangocon.africa/get-ticket">Get Tickets</a>
-
-<p>Building Explainable Models on GCP with Vertex Explainable AI and Tensorflow<br><strong>DevFest Dar es Salaam 2023</strong> • <em>11th Nov. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-dar-es-salaam-presents-devfest-dar-es-salaam-2023/">See Event</a> • <a href="https://gdg.community.dev/events/details/google-gdg-dar-es-salaam-presents-devfest-dar-es-salaam-2023/">Get Tickets</a>
+<p>Building a Scalable Machine Learning API with Flask and TensorFlow<br><strong>FlaskCon 2023</strong> • <em>16th - 17th Dec. 2024</em>  • <a href="https://flaskcon.com/2023/">See Event</a> • <a href="https://flaskcon.com/2023/become-sponsor">Be a Sponsor</a>
 
 <p>Hands-On Few-Shot and Prompt-Based Learning<br><strong>CodeMash 2024</strong> • <em>9th - 12th Jan. 2024</em>  • <a href=https://codemash.org/>See Event</a> • <a href="https://tickets.codemash.org/#/buyTickets">Get Tickets</a>
 
 <h2><span>2023</span></h2>
+
+<p>	Using Simple ML to Analyze and Predict Data in your Spreadsheets<br><strong>DevFest Kampala 2023</strong> • <em>2nd Dec. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-cloud-kampala-presents-devfest-kampala-2023/">See Event</a>
+
+<p>Building Effective Sentiment Analyzers with TensorFlow: A Practical Workshop<br><strong>DevFest Pwani 2023</strong> • <em>25th Nov. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-pwani-presents-devfest-pwani-2023/">See Event</a>
+
+<p>Concrete Steps To Building Explainable Machine Learning Models with Keras<br><strong>DevFest Luwero 2023</strong> • <em>11th Nov. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-luwero-presents-devfest-luwero-2023/">See Event</a>
+
+<p>	Using Simple ML to Analyze and Predict Data in your Spreadsheets<br><strong>DevFest Luwero 2023</strong> • <em>11th Nov. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-luwero-presents-devfest-luwero-2023/">See Event</a>
+
+<p>Building Explainable Models on GCP with Vertex Explainable AI and Tensorflow<br><strong>DevFest Dar es Salaam 2023</strong> • <em>11th Nov. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-dar-es-salaam-presents-devfest-dar-es-salaam-2023/">See Event</a>
+
+<p>Effective Strategies for Disability Inclusion in Open Source Communities<br><strong>DjangoCon Africa 2023</strong> • <em>Monday, Nov. 6 - Saturday, Nov. 11 2023</em>  • <a href=https://2023.djangocon.africa/>See Event</a>
+
+<p>Mediapipe: Making On-Device Machine Learning a Pice of Pie<br><strong>DroidCon Kenya 2023</strong> • <em>8th - 10th Nov. 2023</em>  • <a href=https://droidcon.co.ke/>See Event</a>
 
 <p>Open Source Solutions for Responsible AI Mitigations and Tracking<br><strong>Africa's Talking Summit 2023</strong> • <em>Thursday Oct. 26 & Saturday, Oct. 28 2023</em>  • <a href=https://summit.africastalking.com/#speakers>See Event</a>
 
@@ -91,5 +99,8 @@ This section highlights my unwavering commitment to delivering valuable content,
 
 My goal is to keep the flow of knowledge uninterrupted, and I take this responsibility seriously. Regardless of the situation, I remain focused on delivering high-quality content that provides value to my audience. I believe that transparency is key, and I am always open about the reasons behind any cancellations or delays. By doing so, I hope to earn the trust of my audience and continue to build a community of learners who are passionate about acquiring knowledge.
 
-<p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a>
+<p>Hands-On Responsible AI with The People and AI Guide Book<br><strong>DevFest Calabar 2023</strong> • <em>1st Dec. 2023</em>  • <a href="https://gdg.community.dev/events/details/google-gdg-calabar-presents-devfest-2023-calabar/">See Event</a>
 
+<p>Machine Learning for Blue Teams<br><strong>BSides Nairobi 2023</strong> • <em>8th - 9th Nov. 2023</em>  • <a href=https://bsidesnairobi.ke/>See Event</a>
+ 
+<p>Explaining Machine Learning Models with Interactive Techniques in Python<br><strong>PyGotham TV 2023</strong> • <em>Friday, Oct. 6 & Saturday, Oct. 7 2023</em>  • <a href=https://2023.pygotham.tv/talks/explaining-machine-learning-models-with-interactive-techniques-in-python/>See Event</a>
